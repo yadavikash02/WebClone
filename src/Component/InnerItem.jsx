@@ -1,7 +1,4 @@
 import React from 'react'
-// import logo from './download.png'
-// import Button from 'react-bootstrap/Button';
-// import Modal from 'react-bootstrap/Modal';
 function InnerItem({ logo, title, des ,para }) {
 
     return (

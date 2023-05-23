@@ -6,7 +6,7 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom';
 import InnerItem from './Component/InnerItem';
 import logo from './Component/download.png';
 import logo1 from './Component/main-service1.jpeg';
-import logo2 from './Component/m1.webp'
+import logo2 from './Component/m1.webp' 
 function App() {
   return (
     <BrowserRouter>
